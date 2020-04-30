@@ -7,7 +7,9 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Sam Mottahedi
-description: 
+description: > # this means to ignore newlines until "show_excerpts:"
+  
+show_excerpts: false # set to true to show excerpts on the homepage
 github_username: smottahedi
 
 # Email and twitter are optional:
